@@ -95,7 +95,11 @@ Drag & Drop the desired PLC to the new created card reader to make a download th
 
 ![Configure_SIMATIC_Automation_Tool_Program_Update_TIA_create](graphics/Configure_SIMATIC_Automation_Tool_Program_Update_TIA_create.PNG)
 
-zip the folder, upload it in the file manager and press the "Upload" button.
+Just zip the two created files of the store.
+
+![Configure_SIMATIC_Automation_Tool_Program_File_Manager_Zip_files](graphics/Configure_SIMATIC_Automation_Tool_Program_File_Manager_Zip_files.PNG)
+
+Upload the zip folder in the file manager and press the "Upload" button.
 
 ![Configure_SIMATIC_Automation_Tool_Program_File_Manager_Zip_Upload](graphics/Configure_SIMATIC_Automation_Tool_Program_File_Manager_Zip_Upload.PNG)
 
