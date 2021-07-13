@@ -36,8 +36,6 @@ The example scans the network and displays all devices with detailed information
 - Access to an Industrial Edge Management System (IEM)
 - Onboarded Industial Edge Device on IEM
 - Configured Layer 2 access on Edge Device
-- Installed System Configurators for Databus and S7 Connector
-- Installed System Apps Databus and S7 Connector
 - Installed Apps Device Scanner, SIMATIC Automation Tool
 - Edge device is connected to PLC
 - TIA portal project loaded on PLC (e.g. for filling application)
@@ -46,10 +44,6 @@ The example scans the network and displays all devices with detailed information
 ### Used components
 
 - Industrial Edge Management (IEM) V1.2.0-36
-- S7 Connector Configurator V1.2.43
-- S7 Connector V1.2.29
-- IE Databus Configurator V1.2.29
-- IE Databus V1.2.18
 - Device Scanner 1.1.0
 - SIMATIC Automation Tool 1.0.5
 - Industrial Edge Device V 1.2.0-57

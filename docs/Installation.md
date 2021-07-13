@@ -31,7 +31,7 @@ Confirm the device configuration with "Next" and with "Create".
 
 ## Configure SIMATIC Automation Tool
 
-Due to limitation in the industrial edge device of using L2 access only for one interface the used interface for the Automation Tool is bounded to that one.
+Due to limitation in the industrial edge device of using L2 access only for one interface the used interface for the SIMATIC Automation Tool is bounded to that one.
 The interface 'eth1' can therefore not be changed.
 
 ![Configure_SIMATIC_Automation_Tool](graphics/Configure_SIMATIC_Automation_Tool.PNG)
