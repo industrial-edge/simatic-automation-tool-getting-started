@@ -72,11 +72,13 @@ To update the firmware version, follow these steps:
 ![Configure_SIMATIC_Automation_Tool_Firmware_Upload](graphics/Configure_SIMATIC_Automation_Tool_Firmware_Upload.PNG)
 
    The uploaded files are shown in the file list and can now be used to update the PLC.
+   
+   Note: Only update files can be uploaded to the file manager.
 
-3. Go back to the main window of thew SIMATIC Automation Tool.
-   - Click on "Firmware Update" on the upper left corner.
-   - Select the PLC with the left switch button.
-   - Select in the column "New Firmware Version" the new uploaded firmware.   
-   - Click on "Update" on the upper left corner.
+3. Go back to the main window of the SIMATIC Automation Tool.
+   - Click on "Firmware Update" in the upper left corner.
+   - Select the PLC with the switch button on the left.
+   - Select the uploaded firmware in the column "New Firmware Version"
+   - Click on "Update" in the upper left corner.
 
    ![Configure_SIMATIC_Automation_Tool_Firmware_Update](graphics/Configure_SIMATIC_Automation_Tool_Firmware_Update.PNG)

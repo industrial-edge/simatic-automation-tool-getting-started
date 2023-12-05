@@ -34,10 +34,6 @@ The example scans the network and displays all devices with detailed information
 - Edge device is connected to PLC
 - Google Chrome (Version ≥ 72) or Firefox (Version ≥ 62)
 
-### Used Components
-- Device Scanner IP Service V1.3.0
-- Device Scanner DCP Service V1.3.0
-
 ### Used components
 - Industrial Edge Management (IEM) V1.2.0-36
 - Device Scanner IP Service V1.3.0
