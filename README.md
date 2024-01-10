@@ -50,7 +50,7 @@ The following configuration steps are required in order to set up this example. 
   - [During onboarding](docs/Installation.md#during-onboarding)
   - [After onboarding](docs/Installation.md#after-onboarding)
 
-Since the Device Scanner DCP Service can only be installed once a layer 2 network has been configured, all mandatory apps can only be installed once the configuration steps above were persued.
+Since the Device Scanner DCP Service can only be installed once a layer 2 network has been configured, all mandatory apps can only be installed after the configuration steps above were persued.
 
 ## Usage
 Once the layer 2 network has been set up and all required apps are installed, the user can open the SIMATIC Automation Tool to scan the network, display, start and stop the PLC's and update the firmware. These features are described in the [docs](docs/Usage.md).

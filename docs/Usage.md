@@ -31,7 +31,7 @@ The SIMATIC Automation Tool can be used to scan your network and adjust some set
    ![Usage_Add_Device_manually](graphics/Usage_Add_Device_manually.png)
 
 2. After the network has been scanned, you can see the devices in the SIMATIC Automation Tool.
-Now you can select the PLC with the left switch and click on the button "STOP" or "START" to stop or start the PLC.   
+Now you can select the PLC with the left switch and click on the button "STOP" or "RUN" to stop or start the PLC.   
 ![Usage_StartStop_PLC](graphics/Usage_StartStop_PLC.PNG)
 
 3. Select the PLC and enter a new IP address, network mask or gateway address.   
@@ -50,15 +50,15 @@ To update the firmware version, follow these steps:
 1. Select the file manager at the top right corner.   
 ![Usage_File_Manager](graphics/Usage_File_Manager.png)
 
-2. Click on "Choose Files" in the upper left corner, select the current firmware version and click on "Upload".   
+2. Click on "Choose Files" in the upper left corner, select the downloaded firmware version and click on "Upload".   
 ![Usage_File_Manager_Upload](graphics/Usage_File_Manager_Upload.PNG)
 
    The uploaded files are shown in the file list and can now be used to update the PLC.
    
    Note: Only update files can be uploaded to the file manager.
 
-3. Go back to the main window of the SIMATIC Automation Tool.
-   - Click on "Firmware Update" in the upper left corner.
+3. Go back to the main window of the SIMATIC Automation Tool by clicking on the home symbol on the right.
+   - Click on "Firmware Update" at the top.
    - Select the PLC with the switch button on the left.
    - Select the uploaded firmware in the column "New Firmware Version"
    - Click on "Update".
