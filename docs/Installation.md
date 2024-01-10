@@ -26,9 +26,9 @@ You can configure the layer 2 access either during the onboarding of the device 
 1. To adjust the layer 2 network after the creation of the device navigate to "Settings" and "Connectivity" on your edge device and click on "LAN network".
 
 2. Click on the edit symbol of the network interface.      
-![Configure_Onboarded_Device_1](graphics/Configure_onboarded_device_1.png)
+![Configure_Onboarded_Device_1](graphics/configure_onboarded_device_1.png)
 
 3. Configure the network interface and the layer 2 access.   
-![Configure_Onboarded_Device_2](graphics/Configure_onboarded_device_2.PNG)
+![Configure_Onboarded_Device_2](graphics/configure_onboarded_device_2.PNG)
 
 3. Apply the changes by clicking on "Update".
