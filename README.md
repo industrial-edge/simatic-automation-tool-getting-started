@@ -42,7 +42,7 @@ This example scans the network for compatible devices and displays their informa
 
 ### TIA Project
 The used TIA Portal project to demonstrate starting and stopping of the PLC can be found in the [miscellenous](https://github.com/industrial-edge/miscellaneous) repository:
-- [TIA Tank Application](https://github.com/industrial-edge/miscellaneous/blob/main/tank%20application/tia-tank-application.zap16)
+- [TIA Tank Application](https://github.com/industrial-edge/miscellaneous/blob/main/tank%20application/tia-tank-application.zap19)
 
 ## Configuration Steps
 The following configuration steps are required in order to set up this example. Further information about these steps can be found in the [docs](docs/Installation.md).
@@ -57,6 +57,7 @@ Once the layer 2 network has been set up and all required apps are installed, th
 - [Menu Bar](docs/Usage.md#menu-bar)
 - [Scan Network](docs/Usage.md#scan-network)
 - [Firmware Update](docs/Usage.md#firmware-update)
+- [Load TIA Project to PLC](docs/Usage.md#load-program)
 
 ## Documentation
 You can find further documentation and help in the following links:
