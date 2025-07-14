@@ -27,14 +27,12 @@ This example scans the network for compatible devices and displays their informa
 ### Prerequisites
 - Access to an Industrial Edge Management System (IEM)
 - Onboarded or "Ready-To-Onboard" Industrial Edge Device
-- Installed Apps: Device Scanner DCP Service (requires layer 2 network settings), Device Scanner IP Service, SIMATIC Automation Tool
+- Installed Apps: SIMATIC Automation Tool
 - Edge device is connected to the PLC
 - Google Chrome (Version ≥ 72) or Firefox (Version ≥ 62)
 
 ### Used Components
 - Industrial Edge Management (IEM) V1.15.10 
-- Device Scanner IP Service V1.3.0
-- Device Scanner DCP Service V1.3.0
 - SIMATIC Automation Tool 1.4.0
 - Industrial Edge virtual Device V1.14.1-1-b
 - S7-1511
@@ -50,7 +48,7 @@ The following configuration steps are required in order to set up this example. 
   - [During onboarding](docs/Installation.md#during-onboarding)
   - [After onboarding](docs/Installation.md#after-onboarding)
 
-Since the Device Scanner DCP Service can only be installed once a layer 2 network has been configured, all mandatory apps can only be installed after the configuration steps above were persued.
+
 
 ## Usage
 Once the layer 2 network has been set up and all required apps are installed, the user can open the SIMATIC Automation Tool to scan the network, display, start and stop the PLC's and update the firmware. These features are described in the [docs](docs/Usage.md).

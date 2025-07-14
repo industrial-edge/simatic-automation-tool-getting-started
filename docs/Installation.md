@@ -5,7 +5,7 @@
     - [After Onboarding](#after-onboarding)
 
 ## Configure Device Layer 2 Access
-The device scanner requires layer 2 access to be able to scan the network for devices.
+The SIMATIC Automation Tool requires layer 2 access to be able to scan the network for devices.
 
 You can configure the layer 2 access either during the onboarding of the device through the management or later on directly on the Industrial Edge Device.
 
