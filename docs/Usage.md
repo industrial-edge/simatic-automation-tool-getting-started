@@ -72,19 +72,19 @@ You can use the SIMATIC Automation Tool application to load TIA project to your 
 1. Open the already downloaded [TIA Tank Filler example](../README.md#tia-project) with TIA Portal.
 2. Change the device to the connected one, Firmware and Type is shown in the Automation Tool Application.
 
-![Change device](graphics/change_device.PNG)
+![Change device](graphics/change_device.png)
 
 3. Create a user-defined Card Reader, which defines the directory where the PLC program will be stored. The project tree should look like the following picture.
 
-![Reader created](graphics/Card_reader.PNG)
+![Reader created](graphics/Card_reader.png)
 
 4. Drag and Drop the PLC Program into the Folder.
 
-![Drag and Drop PLC Program](graphics/drag_drop.PNG)
+![Drag and Drop PLC Program](graphics/drag_drop.png)
 
 5. Zip the created S7_JOB.S7S and the folder SIMATIC.S7C into one zip archive and upload the zip file onto the SIMATIC Automation Tool - File Manager with the UI.
 
-![Zip Program](graphics/zipping.PNG)
+![Zip Program](graphics/zipping.png)
 
 6. By first going to tab Program Update in the SIMATIC Automation Tool and then choosing the PLC and the correspondend Program, it is possible to Update the Program with the button Update.
-![Update Program](graphics/Usage_Program.PNG)
+![Update Program](graphics/Usage_Program.png)
