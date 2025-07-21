@@ -18,7 +18,7 @@ This example shows how to use the Industrial Edge App “SIMATIC Automation Tool
 ### Overview
 This document describes how to scan the network and display all devices with detailed information within the Industrial Edge environment.
 
-![overview](docs/graphics/Overview.PNG)
+![overview](docs/graphics/Overview.png)
 
 ### General Task
 This example scans the network for compatible devices and displays their information in the SIMATIC Automation Tool app. The selected PLC is then switched from STOP to RUN mode. Afterwards the IP address is changed. The last step describes the procedure of commissioning a firmware update on the selected PLC.
@@ -27,22 +27,21 @@ This example scans the network for compatible devices and displays their informa
 ### Prerequisites
 - Access to an Industrial Edge Management System (IEM)
 - Onboarded or "Ready-To-Onboard" Industrial Edge Device
-- Installed Apps: Device Scanner DCP Service (requires layer 2 network settings), Device Scanner IP Service, SIMATIC Automation Tool
+- Installed Apps: SIMATIC Automation Tool
 - Edge device is connected to the PLC
 - Google Chrome (Version ≥ 72) or Firefox (Version ≥ 62)
 
 ### Used Components
-- Industrial Edge Management (IEM) V1.15.10 
-- Device Scanner IP Service V1.3.0
-- Device Scanner DCP Service V1.3.0
-- SIMATIC Automation Tool 1.4.0
-- Industrial Edge virtual Device V1.14.1-1-b
+- Industrial Edge Management (IEM) V1.14.9 
+- SIMATIC Automation Tool v5.3.1
+- Industrial Edge Device 3.0.0-51
 - S7-1511
 - Web browser (Mozilla or Chrome)
+- TIA Portal V19
 
 ### TIA Project
 The used TIA Portal project to demonstrate starting and stopping of the PLC can be found in the [miscellenous](https://github.com/industrial-edge/miscellaneous) repository:
-- [TIA Tank Application](https://github.com/industrial-edge/miscellaneous/blob/main/tank%20application/tia-tank-application.zap16)
+- [TIA Tank Application](https://github.com/industrial-edge/miscellaneous/blob/main/tank%20application/tia-tank-application.zap19)
 
 ## Configuration Steps
 The following configuration steps are required in order to set up this example. Further information about these steps can be found in the [docs](docs/Installation.md).
@@ -50,13 +49,14 @@ The following configuration steps are required in order to set up this example. 
   - [During onboarding](docs/Installation.md#during-onboarding)
   - [After onboarding](docs/Installation.md#after-onboarding)
 
-Since the Device Scanner DCP Service can only be installed once a layer 2 network has been configured, all mandatory apps can only be installed after the configuration steps above were persued.
+
 
 ## Usage
 Once the layer 2 network has been set up and all required apps are installed, the user can open the SIMATIC Automation Tool to scan the network, display, start and stop the PLC's and update the firmware. These features are described in the [docs](docs/Usage.md).
 - [Menu Bar](docs/Usage.md#menu-bar)
 - [Scan Network](docs/Usage.md#scan-network)
 - [Firmware Update](docs/Usage.md#firmware-update)
+- [Load TIA Project to PLC](docs/Usage.md#load-program)
 
 ## Documentation
 You can find further documentation and help in the following links:
