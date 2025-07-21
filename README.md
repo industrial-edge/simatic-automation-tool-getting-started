@@ -33,8 +33,8 @@ This example scans the network for compatible devices and displays their informa
 
 ### Used Components
 - Industrial Edge Management (IEM) V1.15.10 
-- SIMATIC Automation Tool 1.4.0
-- Industrial Edge virtual Device V1.14.1-1-b
+- SIMATIC Automation Tool v5.3.1
+- Industrial Edge Device 3.0.0-51
 - S7-1511
 - Web browser (Mozilla or Chrome)
 
