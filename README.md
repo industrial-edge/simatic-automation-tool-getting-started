@@ -32,7 +32,7 @@ This example scans the network for compatible devices and displays their informa
 - Google Chrome (Version ≥ 72) or Firefox (Version ≥ 62)
 
 ### Used Components
-- Industrial Edge Management (IEM) V1.15.10 
+- Industrial Edge Management (IEM) V1.14.9 
 - SIMATIC Automation Tool v5.3.1
 - Industrial Edge Device 3.0.0-51
 - S7-1511
