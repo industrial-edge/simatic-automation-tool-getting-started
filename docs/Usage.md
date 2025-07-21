@@ -26,20 +26,20 @@ The SIMATIC Automation Tool provides some settings and views in the menu bar at 
 The SIMATIC Automation Tool can be used to scan your network and adjust some settings of your devices.
 
 1. On the left bar click on the button "Scan Network" to start the scan of the network.   
-![Usage_Rescan](graphics/Usage_Rescan.PNG)
+![Usage_Rescan](graphics/Usage_Rescan.png)
 
    You can also add a device manually by clicking on "Insert Device" and enter either an IP or MAC address of the device.
    ![Usage_Add_Device_manually](graphics/Usage_Add_Device_manually.png)
 
 2. After the network has been scanned, you can see the devices in the SIMATIC Automation Tool.
 Now you can select the PLC with the left switch and click on the button "STOP" or "RUN" to stop or start the PLC.   
-![Usage_StartStop_PLC](graphics/Usage_StartStop_PLC.PNG)
+![Usage_StartStop_PLC](graphics/Usage_StartStop_PLC.png)
 
 3. Select the PLC and enter a new IP address, network mask or gateway address.   
-![Usage_Change_IP_1](graphics/Usage_Change_IP_1.PNG)
+![Usage_Change_IP_1](graphics/Usage_Change_IP_1.png)
 
 4. Click the "Update" button to set the new addresses.   
-![Usage_Change_IP_2](graphics/Usage_Change_IP_2.PNG)
+![Usage_Change_IP_2](graphics/Usage_Change_IP_2.png)
 
 ## Firmware Update
 You can use the SIMATIC Automation Tool application to update the firmware of your device.
@@ -52,7 +52,7 @@ To update the firmware version, follow these steps:
 ![Usage_File_Manager](graphics/Usage_File_Manager.png)
 
 2. Click on "Choose Files" in the upper left corner, select the downloaded firmware version and click on "Upload".   
-![Usage_File_Manager_Upload](graphics/Usage_File_Manager_Upload.PNG)
+![Usage_File_Manager_Upload](graphics/Usage_File_Manager_Upload.png)
 
    The uploaded files are shown in the file list and can now be used to update the PLC.
    
@@ -64,7 +64,7 @@ To update the firmware version, follow these steps:
    - Select the uploaded firmware in the column "New Firmware Version"
    - Click on "Update".
 
-   ![Usage_Firmware_Update](graphics/Usage_Firmware_Update.PNG)
+   ![Usage_Firmware_Update](graphics/Usage_Firmware_Update.png)
 
 ## Load PLC Program
 You can use the SIMATIC Automation Tool application to load TIA project to your device.

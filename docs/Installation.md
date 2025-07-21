@@ -15,10 +15,10 @@ You can configure the layer 2 access either during the onboarding of the device 
 2. Configure your device and click on "Next" to get to the network settings.
 
 3. Click on the "+" button at the top right to configure the network interface.   
-![Configure_Device_New](graphics/Configure_Device_New.PNG)
+![Configure_Device_New](graphics/Configure_Device_New.png)
 
 4. Configure the network interface and the layer 2 access and click on "add".   
-![Configure_Device_Layer_2_Access](graphics/Configure_Device_Layer_2_Access_example.PNG)
+![Configure_Device_Layer_2_Access](graphics/Configure_Device_Layer_2_Access_example.png)
 
 4. Confirm the device configuration with "Next" and with "Create".
 
@@ -29,6 +29,6 @@ You can configure the layer 2 access either during the onboarding of the device 
 ![Configure_Onboarded_Device_1](graphics/configure_onboarded_device_1.png)
 
 3. Configure the network interface and the layer 2 access.   
-![Configure_Onboarded_Device_2](graphics/configure_onboarded_device_2.PNG)
+![Configure_Onboarded_Device_2](graphics/configure_onboarded_device_2.png)
 
 3. Apply the changes by clicking on "Update".

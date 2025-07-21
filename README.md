@@ -18,7 +18,7 @@ This example shows how to use the Industrial Edge App “SIMATIC Automation Tool
 ### Overview
 This document describes how to scan the network and display all devices with detailed information within the Industrial Edge environment.
 
-![overview](docs/graphics/Overview.PNG)
+![overview](docs/graphics/Overview.png)
 
 ### General Task
 This example scans the network for compatible devices and displays their information in the SIMATIC Automation Tool app. The selected PLC is then switched from STOP to RUN mode. Afterwards the IP address is changed. The last step describes the procedure of commissioning a firmware update on the selected PLC.
@@ -37,6 +37,7 @@ This example scans the network for compatible devices and displays their informa
 - Industrial Edge Device 3.0.0-51
 - S7-1511
 - Web browser (Mozilla or Chrome)
+- TIA Portal V19
 
 ### TIA Project
 The used TIA Portal project to demonstrate starting and stopping of the PLC can be found in the [miscellenous](https://github.com/industrial-edge/miscellaneous) repository:
